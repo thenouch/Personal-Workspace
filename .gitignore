@@ -1,0 +1,13 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+fuelcycle_margin_report.py
+salesforce_cmp_report_final.py
+cmp_report_final.csv
+test_new_salesforce_combined_data.csv
