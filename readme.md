@@ -1,4 +1,3 @@
-### Project Readme
 
 #### Overview
 Experienced analytics engineer focused on building scalable data products, end-to-end analytics pipelines, and stakeholder-ready insights. This workspace collects personal projects, reproducible analyses, and portfolio artifacts that demonstrate expertise in SQL, PySpark, Snowflake, data modeling, and visualization.
